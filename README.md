@@ -71,3 +71,8 @@ npm install
 ```
 node server.js
 ```
+### Backup de base de datos
+```
+El archivo test.sql puede importarse en MySQL usando phpmyadmin y cargar la tabla tutorials en la base de datos test.
+La conexión a la base de datos de MySQL llamada test está configurada en el fichero db.config.js con el usuario admin y la contraseña admin
+```
